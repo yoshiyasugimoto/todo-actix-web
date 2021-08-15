@@ -8,3 +8,4 @@ edition = "2018"
 [dependencies]
 actix-rt = "1"
 actix-web = "2"
+thiserror = "1.0.26"
